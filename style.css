@@ -24,9 +24,10 @@ body {
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
+    
 }
 .logo{
-    font-size: 40px;
+    font-size: 30px;
     font-weight: bold;
 
 }
@@ -141,4 +142,9 @@ letter-spacing: 5px;
 svg {
     width: 20px;
     height: 20px;
+}
+
+.pencil-footer{
+    display: flex;
+    justify-content: center;
 }
